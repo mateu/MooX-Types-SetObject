@@ -1,4 +1,4 @@
 MooX-Types-SetObject
 ====================
 
-Set::Object Type
+Set::Object type for Moo
