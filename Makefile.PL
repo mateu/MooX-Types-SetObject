@@ -7,7 +7,7 @@ use ExtUtils::MakeMaker;
 my %RUN_DEPS = (
   'Moo' => 0.091010,
   'Module::Runtime' => 0.012,
-  'MooX::Types::MooseLike' => 0.22,
+  'MooX::Types::MooseLike' => 0.23,
 );
 my %BUILD_DEPS = (
   'Test::More'  => 0.96,
