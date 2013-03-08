@@ -6,7 +6,7 @@ use Scalar::Util;
 use Exporter 5.57 'import';
 our @EXPORT_OK = ();
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 my $type_definitions = [
   {
