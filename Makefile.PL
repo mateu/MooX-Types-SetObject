@@ -14,7 +14,7 @@ my %BUILD_DEPS = (
 );
 
 WriteMakefile(
-  NAME => 'MooX-Types-SetObject',
+  NAME => 'MooX::Types::SetObject',
   VERSION_FROM => 'lib/MooX/Types/SetObject.pm',
   PREREQ_PM => {
     %RUN_DEPS,
